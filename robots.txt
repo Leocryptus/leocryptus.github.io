@@ -1,0 +1,21 @@
+# Партнёрские деки CRYPTUS PR — закрыты от поисковиков.
+# Остальные проекты домена индексируются как раньше.
+User-agent: *
+Disallow: /cryptus-pr/
+Disallow: /cryptus-pr-ru/
+Disallow: /cryptus-pr-en/
+
+User-agent: Yandex
+Disallow: /cryptus-pr/
+Disallow: /cryptus-pr-ru/
+Disallow: /cryptus-pr-en/
+
+User-agent: GPTBot
+Disallow: /cryptus-pr/
+Disallow: /cryptus-pr-ru/
+Disallow: /cryptus-pr-en/
+
+User-agent: CCBot
+Disallow: /cryptus-pr/
+Disallow: /cryptus-pr-ru/
+Disallow: /cryptus-pr-en/
